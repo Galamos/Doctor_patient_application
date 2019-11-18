@@ -1,2 +1,2 @@
 # Doctor_patient_application
- A project to develop an application to connect doctors to patients using recommender system
+ A project to develop an application to connect patients to doctors using recommender system
