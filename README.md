@@ -32,5 +32,4 @@ Step 3 - In the new environment, install Jupyter Notebook and Spyder(to run pyth
 ## Acknowledgments
 * Frank Kane - Building Recommmender Systems
 * Francesco Ricci Lior Rokach Bracha Shapira Paul B. Kantor - Recommender Systems Handbook
-* 
 
